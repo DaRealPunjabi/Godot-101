@@ -12,3 +12,4 @@ http://kidscancode.org/blog/2017/02/godot_101_01/
 Link to Github for his original source
 https://github.com/kidscancode/godot_tutorials/tree/master/Godot101
 
+This repository follows the tutorial using godot v3.5.1 on Late 2015 iMac running MacOS Monterey.
